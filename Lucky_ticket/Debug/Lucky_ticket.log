@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(134): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(145): warning C4018: <: несоответствие типов со знаком и без знака
+  tickets.h
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(86): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(130): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(134): warning C4244: инициализация: преобразование "double" в "unsigned __int64", возможна потеря данных
+c:\users\fedor\source\repos\lucky_ticket\lucky_ticket\tickets.h(145): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lucky_ticket.vcxproj -> C:\Users\Fedor\source\repos\Lucky_ticket\Debug\Lucky_ticket.exe
